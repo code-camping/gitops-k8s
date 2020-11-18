@@ -4,3 +4,4 @@
 - [Great hosting provider with native GitOps support](https://vercel.com/)
 - [Jenkins X - full blown GitOps](https://jenkins-x.io/)
 - [Demo of Baloise GitOps Process on GitHub](https://github.com/baloise-incubator/gitops-nginx-demo/pull/32)
+- [One Chart to rule them all -> Helm templating](https://www.youtube.com/watch?v=HzJ9ycX1h0c)
